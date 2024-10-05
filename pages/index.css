@@ -124,7 +124,7 @@ background-size: cover;
 
 }
 
-.recipes__subtile{
+.recipes__subtitle{
   font-family: "Noto Serif";
   font-style: normal;
   font-weight: normal;
@@ -155,4 +155,7 @@ background-size: cover;
   font-size: 20px;
   line-height: 30px;
 
+}
+.recipes__iframe{
+  border: none;
 }
