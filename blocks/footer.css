@@ -53,3 +53,11 @@
 .footer__social-link:hover {
   opacity: 70%;
 }
+
+.footer__copyright{
+  font-family:"Inter", "Arial", "sans-serif";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}

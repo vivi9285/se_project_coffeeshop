@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(../images/background_menu.svg);
+  background-position: url(../images/background_menu.svg);
   background-color: #fff;
   background-size: cover;
 }
@@ -25,6 +25,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  text-align: center;
 }
 .menu__cards{
   margin: 0 ;

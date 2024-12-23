@@ -10,7 +10,7 @@
 }
 
 .about__title {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -24,16 +24,16 @@
   margin: 19px 0 0;
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .about__paragraph {
-  font-family: "Noto Serif";
+  font-family:"Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   margin: 0;
-  gap: 20px;
 }
 
 .about__circle {
