@@ -1,7 +1,7 @@
 .recipes {
   background-color: #0a2750;
   color: #fff;
-  background-position: url("../images/background_recipes.svg");
+  background-image: url("../images/background_recipes.svg");
 }
 .recipes__title {
   font-family:'Inter',Arial, sans-serif;
@@ -49,6 +49,7 @@
 }
 
 .recipes__video-caption {
+  margin: 0;
   font-family:"Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;

@@ -6,6 +6,7 @@
   flex-direction: column;
   background-image: url("../images/background_header.svg");
   background-size: cover;
+  background-position: center;
 }
 .header__image {
   position: absolute;
@@ -27,7 +28,7 @@
 }
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif";
+  font-family:"Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-size: 60px;
   line-height: 72px;
